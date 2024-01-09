@@ -5,9 +5,11 @@ function App() {
 
   return (
     <>
-    <h1>Random Gif's</h1>
+    <h1 id='mainheading'>Random Gif's</h1>
+    
      <Random/>
      <Custom/>
+    
     </>
   )
 }
