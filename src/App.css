@@ -3,6 +3,11 @@
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
+    /* font-size: .66rem; */
+}
+
+#mainheading {
+    margin: 0;
 }
 
 .logo {
